@@ -14,7 +14,7 @@
   <a style="text-decoration:none" href="https://gitlab.com/ahmadi-akbar">
     <img src="https://img.shields.io/badge/-Gitlab-fca121?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab" />
   </a>
-  <a style="text-decoration:none" href="https://www.linkedin.com/in/ahmadi-akbar">
+  <a style="text-decoration:none" href="https://linkedin.com/in/ahmadi-akbar">
     <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </p>
