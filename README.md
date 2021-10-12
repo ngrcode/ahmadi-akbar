@@ -1,18 +1,21 @@
 <div align="center">
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabertazimi&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/sabertazimi)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadi-akbar&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/ahmadi-akbar)
 
 </div>
 
 <p align="center">
-  <a style="text-decoration:none" href="mailto:sabertazimi@gmail.com">
+  <a style="text-decoration:none" href="mailto:ahmadi.akbar.1996@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a style="text-decoration:none" href="https://github.com/sabertazimi">
+  <a style="text-decoration:none" href="https://github.com/ahmadi-akbar">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a style="text-decoration:none" href="https://twitter.com/sabertazimi">
-    <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a style="text-decoration:none" href="https://gitlab.com/ahmadi-akbar">
+    <img src="https://img.shields.io/badge/-Gitlab-fca121?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab" />
+  </a>
+  <a style="text-decoration:none" href="https://www.linkedin.com/in/ahmadi-akbar">
+    <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </p>
 
